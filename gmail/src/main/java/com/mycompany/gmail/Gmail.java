@@ -11,7 +11,7 @@ public class Gmail {
         Scanner s=new Scanner(System.in);
         System.out.println("Please Enter user name");
         String userName=s.next();
-        String masserg=String.format("wlecome%s", userName);
+        String masserg=String.format("wlecome %s", userName);
         if(userName.equalsIgnoreCase("sanaullah")){
             System.out.println("Please enter password");
         String pasword=s.next();
