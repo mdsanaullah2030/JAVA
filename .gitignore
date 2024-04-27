@@ -23,9 +23,19 @@
 /name/build/
 /testmathod/nbproject/private/
 /testmathod/build/
+<<<<<<< HEAD
 /chaptar4/nbproject/private/
 /chaptar4/build/
 /numberGuessing/nbproject/private/
 /numberGuessing/build/
 /testguessingDowhile/nbproject/private/
 /testguessingDowhile/build/
+=======
+/facbook/target/
+/gmail/target/
+/nameWelcome/target/
+>>>>>>> ee8d46e409dac01550008297727cfb217e37c8bc
+/factoryal/nbproject/private/
+/factoryal/build/
+/primeNumber/nbproject/private/
+/primeNumber/build/
