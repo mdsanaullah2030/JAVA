@@ -6,16 +6,7 @@ public class Testmathod {
 
  
     public static void main(String[] args) {
-       
-
-
-
-
-
-
-
-  
-    
+      
         Scanner s=new Scanner(System.in);
 //        
         System.out.println("Enter ur email id ");
@@ -40,16 +31,11 @@ public class Testmathod {
         else{
             System.out.println("Couldn't find ur Google Account");
         }
-        
-
-
- 
-
 }
         
     }
     
-}
+
         
     
     

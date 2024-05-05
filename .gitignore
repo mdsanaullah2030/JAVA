@@ -23,9 +23,18 @@
 /name/build/
 /testmathod/nbproject/private/
 /testmathod/build/
+<<<<<<< HEAD
+/chaptar4/nbproject/private/
+/chaptar4/build/
+/numberGuessing/nbproject/private/
+/numberGuessing/build/
+/testguessingDowhile/nbproject/private/
+/testguessingDowhile/build/
+=======
 /facbook/target/
 /gmail/target/
 /nameWelcome/target/
+<<<<<<< HEAD
 /vowelConsonant/nbproject/private/
 /vowelConsonant/build/
 /number14/nbproject/private/
@@ -48,3 +57,27 @@
 /SingleDimensionarray/build/
 /isPrime/nbproject/private/
 /isPrime/build/
+=======
+>>>>>>> ee8d46e409dac01550008297727cfb217e37c8bc
+/factoryal/nbproject/private/
+/factoryal/build/
+/primeNumber/nbproject/private/
+/primeNumber/build/
+/testloops59/nbproject/private/
+/testLoop/nbproject/private/
+/testLoop/build/
+/mathodclass/nbproject/private/
+/mathodclass/build/
+/mathorprime/nbproject/private/
+/mathorprime/build/
+/rnadmPaswordGenaret/nbproject/private/
+/rnadmPaswordGenaret/build/
+>>>>>>> fc22966dd1a4c1ce86bf7d065867944cec0aa18e
+/JavaApplication31/nbproject/private/
+/JavaApplication31/build/
+/testMultidimentionArrays/nbproject/private/
+/testMultidimentionArrays/build/
+/chaptar5loop/nbproject/private/
+/chaptar5loop/build/
+/TestObjectsAndClass/nbproject/private/
+/TestObjectsAndClass/build/

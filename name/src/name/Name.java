@@ -1,6 +1,8 @@
 
 package name;
 
+import java.util.Scanner;
+
 
 
 
@@ -9,12 +11,10 @@ public class Name {
   class JAVA{
     public static void main( String args[] ) {
       
-        System.out.println("Character.isUpperCase('E'):");
-        System.out.println(Character.isUpperCase('E'));
-
-       
-        System.out.println("Character.isUpperCase('e'):");
-        System.out.println(Character.isUpperCase('e'));
+        Scanner s=new Scanner(System.in);
+        String input=s.next();
+        System.out.println(input);
+        
 
     }
 }
