@@ -72,6 +72,7 @@
 /mathorprime/build/
 /rnadmPaswordGenaret/nbproject/private/
 /rnadmPaswordGenaret/build/
+<<<<<<< HEAD
 >>>>>>> fc22966dd1a4c1ce86bf7d065867944cec0aa18e
 /JavaApplication31/nbproject/private/
 /JavaApplication31/build/
@@ -81,3 +82,13 @@
 /chaptar5loop/build/
 /TestObjectsAndClass/nbproject/private/
 /TestObjectsAndClass/build/
+=======
+/testmathrodPrimeNumber/nbproject/private/
+/testmathrodPrimeNumber/build/
+/testMultidimensionArrays/nbproject/private/
+/testMultidimensionArrays/build/
+>>>>>>> 4df5d003539040d9b6fb239feee2dea1dba37dfc
+/testclassObject/nbproject/private/
+/testclassObject/build/
+/MaxMinNumber/nbproject/private/
+/MaxMinNumber/build/
