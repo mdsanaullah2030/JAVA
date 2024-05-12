@@ -12,8 +12,8 @@ public class Factoryal {
 //                   factorial *=i; //  factorial=factorial*i 24
 //            }
             
-            for(long i=facValue; i>=1; i--){
-                   factorial *=i; //  factorial=factorial*i
+            for(long  i=facValue; i>=1; i--){
+                   factorial *=i;//  factorial=factorial*i
             }
             
             System.out.println("Factorial is "+factorial);
