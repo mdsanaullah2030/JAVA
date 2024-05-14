@@ -18,6 +18,7 @@ public class TestBinary {
             for (int i = 1; i<=100; i++) {
                 fos.write(i);
             }
+            fos.close();
             FileInputStream fis=new FileInputStream(f);
         int value;
         while((value=fis.read())!=-1){
