@@ -56,9 +56,38 @@
 /searching/build/
 /testAvidens/nbproject/private/
 /testAvidens/build/
+<<<<<<< HEAD
 /thread/nbproject/private/
 /thread/build/
 /testgeneric/nbproject/private/
 /testgeneric/build/
 /  avidensbinary/nbproject/private/
 /  avidensbinary/build/
+=======
+/abstract1/nbproject/private/
+/abstract1/build/
+/Chaptar-13 (Abstaclass)/abstract1/build/
+/Chaptar-13 (Abstaclass)/abstract1/nbproject/private/
+/Chaptar-13 (Abstaclass)/arithmetic/build/
+/Chaptar-13 (Abstaclass)/arithmetic/nbproject/private/
+/Chaptar-13 (Abstaclass)/testabstractclass/build/
+/Chaptar-13 (Abstaclass)/testabstractclass/nbproject/private/
+/Chaptar-11(inheritance)/JavaApplication87/nbproject/private/
+/Chaptar-11(inheritance)/JavaApplication87/build/
+/Chaptar-13 (Abstaclass)/testabstraction/nbproject/private/
+/Chaptar-13 (Abstaclass)/testabstraction/build/
+/Chaptar-7( Single-Dimensional Arrays)/randomArrays/nbproject/private/
+/Chaptar-7( Single-Dimensional Arrays)/randomArrays/build/
+/Chaptar-17(BINARY IO)/avidence/nbproject/private/
+/Chaptar-17(BINARY IO)/avidence/build/
+/Chaptar-17(BINARY IO)/testBinaryFile/nbproject/private/
+/Chaptar-17(BINARY IO)/testBinaryFile/build/
+/Chaptar-17(BINARY IO)/avidensBinary/nbproject/private/
+/Chaptar-17(BINARY IO)/avidensBinary/build/
+/allWork/build/
+/Chaptar-17(BINARY IO)/testArrayRandom/nbproject/private/
+/Chaptar-24 Linked Lis ArrayList/testLinkList/nbproject/private/
+/Chaptar-24 Linked Lis ArrayList/testLinkList/build/
+/Chaptar-7( Single-Dimensional Arrays)/JavaApplication95/nbproject/private/
+/Chaptar-7( Single-Dimensional Arrays)/JavaApplication95/build/
+>>>>>>> 2e575bf8bdb83be82ec3016d874a7b8333e99c52
