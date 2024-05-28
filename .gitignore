@@ -90,7 +90,26 @@
 /Chaptar-24 Linked Lis ArrayList/testLinkList/build/
 /Chaptar-7( Single-Dimensional Arrays)/JavaApplication95/nbproject/private/
 /Chaptar-7( Single-Dimensional Arrays)/JavaApplication95/build/
+<<<<<<< HEAD
+/Chaptar-7( Single-Dimensional Arrays)/JavaApplication96/nbproject/private/
+/Chaptar-7( Single-Dimensional Arrays)/JavaApplication96/build/
+/Chaptar-7( Single-Dimensional Arrays)/JavaApplication96/dist/
+/Chaptar-7( Single-Dimensional Arrays)/JavaApplication95/dist/
+/Chaptar-13 (Abstaclass)/JavaApplication3/nbproject/private/
+/Chaptar-13 (Abstaclass)/animalwith/nbproject/private/
+/Chaptar-13 (Abstaclass)/animalwith/build/
+/Chaptar-5(Loops)/vowele/nbproject/private/
+/Chaptar-5(Loops)/vowele/build/
+/Chaptar-5(Loops)/testobject/nbproject/private/
+/Chaptar-5(Loops)/testobject/build/
+/TestRecurtion59/nbproject/private/
+/TestRecurtion/nbproject/private/
+/TestRecurtion/build/
+/Chaptar-18 Recursion/JavaApplication7/nbproject/private/
+/Chaptar-18 Recursion/JavaApplication7/build/
+=======
 >>>>>>> 2e575bf8bdb83be82ec3016d874a7b8333e99c52
+<<<<<<< HEAD
 /Chaptar-17(BINARY IO)/fileTex/nbproject/private/
 /Chaptar-17(BINARY IO)/fileTex/build/
 /Chaptar-19(Generics ArrayList)/teacher/nbproject/private/
@@ -104,3 +123,44 @@
 /Chaptar-17(BINARY IO)/binaryFile/JavaApplication64/nbproject/private/
 /Chaptar-17(BINARY IO)/testbinary/build/
 /Chaptar-17(BINARY IO)/jee59/nbproject/private/
+=======
+>>>>>>> 7c2ce43b6e31736509e15f5af9d47e3d6ecd9c89
+/Chaptar-18 Recursion/febonacciofmathod/nbproject/private/
+/Chaptar-18 Recursion/febonacciofmathod/build/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/text/nbproject/private/
+/Chaptar-17(BINARY IO)/filleInput/nbproject/private/
+/Chaptar-17(BINARY IO)/filleInput/build/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/text/build/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/testText/nbproject/private/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/testTex/nbproject/private/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/testTex/build/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/prcticeTex/nbproject/private/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/prcticeTex/build/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/texsupar/nbproject/private/
+/Chaptar-12 (exceptionHandling)(TEXT IO)/texsupar/build/
+/Chaptar-19(Generics ArrayList)/exam/nbproject/private/
+/Chaptar-19(Generics ArrayList)/exam/build/
+/Chaptar-19(Generics ArrayList)/registation/nbproject/private/
+/Chaptar-19(Generics ArrayList)/registation/build/
+/Chaptar-11(inheritance)/geomertries/nbproject/private/
+/Chaptar-11(inheritance)/geomertries/build/
+/Chaptar-13 (Abstaclass)/textabstraction/nbproject/private/
+/Chaptar-13 (Abstaclass)/textabstraction a/nbproject/private/
+/Chaptar-13 (Abstaclass)/textabstraction a/dist/
+/Chaptar-13 (Abstaclass)/textabstraction a/build/
+/ISDB/recursion/nbproject/private/
+/ISDB/recursion/build/
+/ISDB/factarial/nbproject/private/
+/ISDB/factarial/build/
+/ISDB/Gnericse/nbproject/private/
+/ISDB/Gnericse/build/
+/ISDB/TextFile/nbproject/private/
+/ISDB/TextFile/build/
+/ISDB/JavaApplication21/nbproject/private/
+/ISDB/JavaApplication21/build/
+/ISDB/JavaApplication21/dist/
+/ISDB/Random/nbproject/private/
+/ISDB/Random/build/
+/ISDB/FileInput/nbproject/private/
+/ISDB/FileInput/build/
+>>>>>>> 8960f0f4bc58880228bf8ae504d96095c6eb2c0c
