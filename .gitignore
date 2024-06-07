@@ -240,3 +240,7 @@
 /Chaptar-4 (methods)/Marck/build/
 /Chaptar-4 (methods)/Marck/dist/
 >>>>>>> bb52084f32d925499fdc5317a5dcb83c95cab131
+/DATA  Connection/NotMySql/nbproject/private/
+/DATA  Connection/DoNotMySql/nbproject/private/
+/DATA  Connection/DBconn/nbproject/private/
+/DATA  Connection/DBconn/build/

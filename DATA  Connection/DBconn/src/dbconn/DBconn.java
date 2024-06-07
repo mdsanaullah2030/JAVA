@@ -30,7 +30,7 @@ static DbUtile db=new DbUtile();
         student.setCell(studentList.get(0).getCell());
         student.setId(studentList.get(0).getId());
 
-        editData(student);
+        editeData(student);
         showData();
         
         
@@ -39,7 +39,7 @@ static DbUtile db=new DbUtile();
     
     public  static  void  saveData(){
     
-    String insertSql="insert into jeejava(name,email,address,cell)"+"values(?,?,?,?)";
+    String insertSql="insert into student(name,email,address,cell)"+"values(?,?,?,?)";
     
     try {
         ps=db.getCon().prepareStatement(insertSql);
@@ -63,7 +63,7 @@ static DbUtile db=new DbUtile();
     }
     public  static void showData(){
     
-    String selectSql="select* from jeejava";
+    String selectSql="select* from student";
     try {
         ps=db.getCon().prepareStatement(selectSql);
         
@@ -98,7 +98,7 @@ static DbUtile db=new DbUtile();
     
      public  static void editeData(Student s){
      
-     String sql = "update jeejava set name=?, email=?, address=?, cell=? where id=?";
+     String sql = "update student set name=?, email=?, address=?, cell=? where id=?";
      
     try {
         ps=db.getCon().prepareStatement(sql);
@@ -121,24 +121,39 @@ static DbUtile db=new DbUtile();
         Logger.getLogger(DBconn.class.getName()).log(Level.SEVERE, null, ex);
     }
      }
-      public static List<Student> getById(int id) {
+   public static List<Student> getById(int id) {
         List<Student> studentList = new ArrayList<>();
 
         String sql = "select * from student where id=?";
-     
-    try {
-        ps=db.getCon().prepareStatement(sql);
-        ps.setInt(1, id);
-        rs=ps.executeQuery();
-        
-        
-        while(rs.next(){
-            
-            
+
+        try {
+            ps = db.getCon().prepareStatement(sql);
+            ps.setInt(1, id);
+
+            rs = ps.executeQuery();
+
+            while (rs.next()) {
+                Student s = new Student(
+                        rs.getInt("id"),
+                        rs.getString("name"),
+                        rs.getString("email"),
+                        rs.getString("address"),
+                        rs.getString("cell")
+                );
+
+                studentList.add(s);
+
+            }
+
+        } catch (SQLException ex) {
+            Logger.getLogger(DBconn.class.getName()).log(Level.SEVERE, null, ex);
         }
+        return studentList;
     }
-    } catch (SQLException ex) {
-        Logger.getLogger(DBconn.class.getName()).log(Level.SEVERE, null, ex);
-    }
-    return studentList;
+     
+ 
+    
+       
+        
+   
 }
