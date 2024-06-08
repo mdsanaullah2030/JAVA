@@ -21,7 +21,7 @@ public class DataConection {
       try {
           ps=db.getCon().prepareStatement(input);
        
-          ps.setString(1, "samiullah");
+          ps.setString(1, "Hamidullah");
           ps.setString(2, "samiullah@gmail.com");
           ps.setString(3, "Chapainwobgonj");
           ps.setString(4, "01303246215");
@@ -46,7 +46,7 @@ public class DataConection {
               String address=rs.getString("address");
               String cell=rs.getString("cell");
               
-              System.out.println("id"+id+"name"+name+"Gemail"+gemail+"address"+address+"cell"+cell);
+              System.out.println("id "+id+" name "+name+" Gemail "+gemail+" address "+address+" cell "+cell);
           
           }
           ps.close();
