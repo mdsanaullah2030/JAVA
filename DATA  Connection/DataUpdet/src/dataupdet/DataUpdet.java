@@ -19,7 +19,7 @@ static DbUtil db=new DbUtil();
         
         saveData();
         showData();
-       Student student=new Student(4, "samiullah", "samiullah@gmail.com", "chapi", "0142345");
+       Student student=new Student(4, "Hamidullah", "Hamidullah@gmail.com", "chapi", "0142345");
        editData(student);
        showData();
     }

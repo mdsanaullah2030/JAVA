@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 public class DbUtil {
    private Connection con=null;
-   private String url="jdbc:mysql://localhost:3306/biodata";
+   private String url="jdbc:mysql://localhost:3306/sanaullah";
       private String usre="root";
    private  String password="1234";
 
