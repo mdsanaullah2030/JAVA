@@ -28,12 +28,16 @@ public class View extends javax.swing.JFrame {
 
         jPanel2 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
+        btnCreateAccount = new javax.swing.JButton();
+        btnDeposit = new javax.swing.JButton();
+        btnWithdraw = new javax.swing.JButton();
+        btnEnquiry = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setPreferredSize(new java.awt.Dimension(1000, 600));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel2.setBackground(new java.awt.Color(0, 102, 102));
+        jPanel2.setBackground(new java.awt.Color(102, 102, 102));
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -52,6 +56,30 @@ public class View extends javax.swing.JFrame {
         );
 
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1000, 80));
+
+        btnCreateAccount.setBackground(new java.awt.Color(102, 102, 102));
+        btnCreateAccount.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        btnCreateAccount.setForeground(new java.awt.Color(255, 255, 255));
+        btnCreateAccount.setText("Create Account");
+        getContentPane().add(btnCreateAccount, new org.netbeans.lib.awtextra.AbsoluteConstraints(15, 133, 130, 40));
+
+        btnDeposit.setBackground(new java.awt.Color(102, 102, 102));
+        btnDeposit.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        btnDeposit.setForeground(new java.awt.Color(255, 255, 255));
+        btnDeposit.setText("Deposit");
+        getContentPane().add(btnDeposit, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 203, 140, 40));
+
+        btnWithdraw.setBackground(new java.awt.Color(102, 102, 102));
+        btnWithdraw.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        btnWithdraw.setForeground(new java.awt.Color(255, 255, 255));
+        btnWithdraw.setText("Withdraw");
+        getContentPane().add(btnWithdraw, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 273, 140, 40));
+
+        btnEnquiry.setBackground(new java.awt.Color(102, 102, 102));
+        btnEnquiry.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        btnEnquiry.setForeground(new java.awt.Color(255, 255, 255));
+        btnEnquiry.setText("Enquiry");
+        getContentPane().add(btnEnquiry, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 340, 140, 40));
 
         pack();
         setLocationRelativeTo(null);
@@ -93,6 +121,10 @@ public class View extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnCreateAccount;
+    private javax.swing.JButton btnDeposit;
+    private javax.swing.JButton btnEnquiry;
+    private javax.swing.JButton btnWithdraw;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel2;
     // End of variables declaration//GEN-END:variables
