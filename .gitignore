@@ -272,6 +272,7 @@
 /JDBC2/build/
 /JavaApplication36/nbproject/private/
 /JavaApplication36/build/
+<<<<<<< HEAD
 /DATA  Connection/JDBC5/nbproject/private/
 /DATA  Connection/JDBC5/build/
 /DATA  Connection/jdbc6/nbproject/private/
@@ -283,3 +284,6 @@
 /DATA  Connection/dgdg/nbproject/private/
 /DATA  Connection/sss/nbproject/private/
 /DATA  Connection/sss/build/
+=======
+/DATA  Connection/JDBC3/build/
+>>>>>>> 65fefbb58ae9096888821b996f21baf862f72095

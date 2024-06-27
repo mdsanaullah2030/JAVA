@@ -9,8 +9,8 @@ import java.util.logging.Logger;
 
 public class DbUtil3 {
     private Connection con=null;
-    private String url="jdbc:mysql://localhost:3306/isdb";
-    private String user="";
+    private String url="jdbc:mysql://localhost:3306/raju";
+    private String user="root";
     private String password="";
     private String driver="com.mysql.cj.jdbc.Driver";
     
