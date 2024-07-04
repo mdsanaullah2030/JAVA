@@ -17,13 +17,13 @@ static String sql="";
     public static void main(String[] args) {
         saveEmp("Mahabur","Mahabur@gmail.com" ,"1552478");
         
-        showEmp();
-        deleteEmp(2);
-        System.out.println("\n aftar delete");
-        showEmp();
-        updateEmp("kutub", "kutub@gmail.com", "5214545", 1);
-        System.out.println("\n aftar update \n");
-        showEmp();
+//        showEmp();
+//        deleteEmp(2);
+//        System.out.println("\n aftar delete");
+//        showEmp();
+//        updateEmp("kutub", "kutub@gmail.com", "5214545", 1);
+//        System.out.println("\n aftar update \n");
+//        showEmp();
     }
     public  static void saveEmp(String name,String emal,String cellno ){
     sql="insert into sanaullah(  name,emal,cellno) values(?,?,?)";

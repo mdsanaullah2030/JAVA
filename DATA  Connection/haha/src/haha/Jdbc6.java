@@ -1,5 +1,6 @@
+package haha;
 
-package jdbc6;
+
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -16,13 +17,13 @@ static ResultSet rs;
 static String sql="";
     public static void main(String[] args) {
         savedata("sanaullah", "sanaullah@gmail.com");
-//        showdata();
-//        deletedata(3);
-//        System.out.println("aftar delete");
-//        showdata();
-//        update("mahi", "mahi@gmail.com", 1);
-//        System.out.println("aftar update");
-//        showdata();
+        showdata();
+        deletedata(3);
+        System.out.println("aftar delete");
+        showdata();
+        update("mahi", "mahi@gmail.com", 1);
+        System.out.println("aftar update");
+        showdata();
         
     }
     public static void savedata(String name,String email){

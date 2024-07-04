@@ -1,5 +1,6 @@
-
 package set;
+
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -13,7 +14,7 @@ public class DbUtil6 {
     private String url="jdbc:mysql://localhost:3307/java";
    
     private String user="root";
-    private String password="1234";
+    private String password="";
      private String driver="com.mysql.cj.jdbc.Driver";
      
      public Connection getCon(){
